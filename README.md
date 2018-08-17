@@ -7,7 +7,6 @@ Rust nightly is installed as a default toolchain. Install WASM target and bindge
 ```bash
 rustup target add wasm32-unknown-unknown
 cargo install wasm-bindgen-cli
-cargo install wasm-pack
 ```
 
 ## Examples
