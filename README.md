@@ -13,7 +13,7 @@ cargo install wasm-bindgen-cli
 
 ### Rust crate
 
-Your crate can still be used by Rust. Check the `examples/simple.rs`:
+Crate can still be used by Rust binaries. Check the `examples/simple.rs`:
 
 ```bash
 cargo run --example simple
