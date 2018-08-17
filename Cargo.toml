@@ -1,0 +1,10 @@
+[package]
+name = "rustymath"
+version = "0.0.1"
+authors = ["Robert Vojta <robert@resin.io>"]
+
+[lib]
+crate-type = ["lib", "cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2"
