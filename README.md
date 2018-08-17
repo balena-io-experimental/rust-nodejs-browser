@@ -47,5 +47,6 @@ npm run serve
 ### Rust & Node.js
 
 ```bash
+cd node
 yarn && node example.js
 ```
